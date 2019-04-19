@@ -5,7 +5,7 @@ How to use this simple tool:
 1. Let your data, either a folder or single document, be the same directory (sample_folder has some sample shakespeare text)
 
 
-`python text_analyzer -h`: display analyzer options <br /><br />
+`python text_analyzer -h`: display analyzer options <br />
 
 `python text_analyzer.py -i sample_folder`: analyze all elements in corpus sample folder <br />
 `python text_analyzer.py -i sample_folder/sample_1.txt`: analyze all elements in sample_1.txt
